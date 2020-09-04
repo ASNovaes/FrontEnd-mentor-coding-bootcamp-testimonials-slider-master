@@ -1,0 +1,13 @@
+.main {
+  background: url('../images/pattern-curve.svg') bottom left / 28rem no-repeat;
+  height: 100vh;
+
+  @media(min-width: $tablet){
+    background: url('../images/pattern-curve.svg') bottom left / 50rem no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }  
+}
+
+

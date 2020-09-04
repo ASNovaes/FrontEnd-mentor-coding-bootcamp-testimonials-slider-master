@@ -1,0 +1,14 @@
+{
+  "name": "coding-bootcamp-testimonials-slider-master",
+  "version": "1.0.0",
+  "description": "challenge front end mentor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Novaes",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.26.10"
+  }
+}
