@@ -28,7 +28,7 @@ const renderInfo = ({ name, office, testimony }) => {
 }
 
 const renderPhoto = ({ photo }) => {
-    let pathImage = "../src/assets/images/"
+    let pathImage = "./app/src/assets/images/"
     sliderPhoto.src = `${pathImage}${photo}`;
 }
 
